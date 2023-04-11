@@ -1,0 +1,7 @@
+/.metadata/
+.classpath
+.project
+.settings/org.eclipse.jdt.core.pr
+.recommenders/caches/identified-project-coordinates.json
+.recommenders/caches/manual-mappings.json
+ Sample/.settings/org.eclipse.jdt.core.prefs
